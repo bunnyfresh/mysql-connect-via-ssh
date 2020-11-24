@@ -1,0 +1,15 @@
+{
+    "name": "vendor/ms",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Setgey",
+            "email": "serqei_gudzenko@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.3",
+        "phpseclib/phpseclib": "^1.0",
+        "wildbit/postmark-php": "^4.0"
+    }
+}
