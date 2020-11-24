@@ -8,8 +8,8 @@
         }
     ],
     "require": {
-        "php": ">=7.2.3",
-        "phpseclib/phpseclib": "^1.0",
+        "php": ">=7.2.5",
+        "phpseclib/phpseclib": "^2.0",
         "wildbit/postmark-php": "^4.0"
     }
 }
